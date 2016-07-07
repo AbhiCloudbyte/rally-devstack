@@ -1,6 +1,5 @@
 devstack-rally
 ==============
-Devstack and Rally localrc
 
 Prerequisites:
 --------------
