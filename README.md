@@ -18,7 +18,7 @@ Setup default configuration parameters for rally with rally_setup.sh
 ```
 $ ./rally_setup.sh
 ```
-Modify the devstack/loacl.conf for IP and password modifications
+Modify the devstack/local.conf for IP and password modifications
 
 Deploy your Devstack
 
