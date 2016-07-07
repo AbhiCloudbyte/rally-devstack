@@ -12,16 +12,16 @@ Steps
 -----
 Clone devstack-rally
 ```
-$git clone https://github.com/svashu/devstack-rally
+$ git clone https://github.com/AbhiCloudbyte/rally-devstack/
 ```
 Setup default configuration parameters for rally with rally_setup.sh
 ```
-$./rally_setup.sh
+$ ./rally_setup.sh
 ```
-Modify the devstack/localrc for IP and password modifications
+Modify the devstack/loacl.conf for IP and password modifications
 
 Deploy your Devstack
 
 ```
-$cd devstack && ./stack.sh
+$ cd devstack && ./stack.sh
 ```
