@@ -5,3 +5,4 @@ cp rally/contrib/devstack/lib/rally devstack/lib/
 cp rally/contrib/devstack/extras.d/70-rally.sh devstack/extras.d/
 cp local.conf devstack/
 rm -rf rally
+cd devstack/ && ./stack.sh
